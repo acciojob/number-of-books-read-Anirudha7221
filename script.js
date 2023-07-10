@@ -23,7 +23,7 @@ const numberOfBooksRead = () => {
 		if(i.readingStatus==true)
 		{
 			count++;
-		}
+		})
 		return count;
 	}
 };
